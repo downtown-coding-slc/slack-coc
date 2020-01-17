@@ -1,6 +1,6 @@
-# The Code of Conduct for the Downtown Coding SLC Slack Workspace
+# The Code of Conduct for the Downtown Coding SLC meetup and associated Slack Workspace
 
-All participants in the Downtown Coding SLC Slack channel are required to agree with the following Code of Conduct. Complaints will be reviewed in a timely and professional manner and responses may include banning users from the workspace.
+All participants in the Downtown Coding SLC meetup events and/or our Slack channel are required to agree with the following Code of Conduct. Complaints will be reviewed in a timely and professional manner and responses may include banning users from the workspace.
 
 ## Our Pledge
 
