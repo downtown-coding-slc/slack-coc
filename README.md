@@ -1,6 +1,6 @@
-# The Code of Conduct for the UtahJS Slack Workspace
+# The Code of Conduct for the Downtown Coding SLC Slack Workspace
 
-All participants in the UtahJS Slack channel are required to agree with the following Code of Conduct. Complaints will be reviewed in a timely and professional manner and responses may include banning users from the workspace.
+All participants in the Downtown Coding SLC Slack channel are required to agree with the following Code of Conduct. Complaints will be reviewed in a timely and professional manner and responses may include banning users from the workspace.
 
 ## Our Pledge
 
@@ -26,7 +26,7 @@ Examples of unacceptable behavior by participants include:
 
 ## Etiquette
 
-We encourage everyone to review and follow the [Slack Etiquette Guide](https://github.com/UtahJS/slack-coc/blob/master/ETIQUETTE.md).
+We encourage everyone to review and follow the [Slack Etiquette Guide](https://github.com/downtown-coding-slc/slack-coc/blob/master/ETIQUETTE.md).
 
 ## Advertisements
 
@@ -38,9 +38,9 @@ A bot may *never* post marketing material in any channel without prior approval.
 
 ## Our Responsibilities
 
-UtahJS Slack Workspace admins are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
+Downtown Coding SLC Slack Workspace admins are responsible for clarifying the standards of acceptable behavior and are expected to take appropriate and fair corrective action in response to any instances of unacceptable behavior.
 
-UtahJS Slack Workspace admins have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
+Downtown Coding SLC Slack Workspace admins have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, or to ban temporarily or permanently any contributor for other behaviors that they deem inappropriate, threatening, offensive, or harmful.
 
 ## Scope
 
@@ -50,13 +50,8 @@ This Code of Conduct applies to public channels, private channels and direct mes
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be reported in any of three ways:
 
-1. Anonymously using [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSfEjy-OM3GabFlrIJb5XnOyWiLFsGT4Jxouw5r9cmLJvllShA/viewform)
-1. By emailing coc@utahjs.com
 1. By sending a Slack message to an admin listed below:
-  - @kendsnyder - Ken Snyder
-  - @waltercodes - Walter Scott
-  - @Madeline - Madeline Trotter
-  - @ryan.moore - Ryan Moore
+  - Brian Richins
 
 All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The workspace admins are obligated to maintain confidentiality with regard to the reporter of an incident. Further details of specific enforcement policies may be posted separately.
 
