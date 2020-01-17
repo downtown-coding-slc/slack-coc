@@ -1,6 +1,6 @@
-# UtahJS Slack Etiquette Guide
+# Downtown Coding SLC - Slack Etiquette Guide
 
-- Follow [the Code of Conduct](https://github.com/UtahJS/slack-coc).
+- Follow [the Code of Conduct](https://github.com/downtown-coding-slc/slack-coc).
 - Be friendly:
 	- Welcome new members!
 	- Be respectful and friendly when giving coding advice.
